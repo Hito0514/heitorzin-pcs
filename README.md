@@ -7,7 +7,7 @@ Sistema web completo para uma **loja de peças de computador**, com vitrine púb
 | **Integrante** | Heitor Almeida Souza |
 | **Tema da loja** | Peças para computador (processadores, placas de vídeo, memórias, SSDs, gabinetes, periféricos) |
 | **Identidade visual** | Preto e branco listrado (inspirado em listras verticais, com logo própria) |
-| **Repositório** | _COLE AQUI O LINK DO SEU GITHUB_ |
+| **Repositório** | heitorzin-pcs |
 
 ## Descrição do sistema
 
