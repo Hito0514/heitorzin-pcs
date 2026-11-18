@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Heitorzin PCs">
+  <defs>
+    <clipPath id="c"><circle cx="60" cy="60" r="54"/></clipPath>
+  </defs>
+  <circle cx="60" cy="60" r="58" fill="#fff"/>
+  <g clip-path="url(#c)">
+    <rect width="120" height="120" fill="#0b0b0b"/>
+    <rect x="15" width="15" height="120" fill="#fff"/>
+    <rect x="45" width="15" height="120" fill="#fff"/>
+    <rect x="75" width="15" height="120" fill="#fff"/>
+    <rect x="105" width="15" height="120" fill="#fff"/>
+  </g>
+  <circle cx="60" cy="60" r="54" fill="none" stroke="#0b0b0b" stroke-width="4"/>
+  <rect x="30" y="38" width="60" height="44" rx="4" fill="#0b0b0b" stroke="#fff" stroke-width="3"/>
+  <text x="60" y="73" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="34" fill="#fff">H</text>
+</svg>

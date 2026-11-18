@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f1f1f1"/>
+  <g fill="#0b0b0b">
+    <rect x="0" width="25" height="300" opacity=".05"/>
+    <rect x="50" width="25" height="300" opacity=".05"/>
+    <rect x="100" width="25" height="300" opacity=".05"/>
+    <rect x="150" width="25" height="300" opacity=".05"/>
+    <rect x="200" width="25" height="300" opacity=".05"/>
+    <rect x="250" width="25" height="300" opacity=".05"/>
+    <rect x="300" width="25" height="300" opacity=".05"/>
+    <rect x="350" width="25" height="300" opacity=".05"/>
+  </g>
+  <g fill="none" stroke="#0b0b0b" stroke-width="6" stroke-linecap="round">
+    <rect x="145" y="95" width="110" height="110" rx="8" fill="#fff"/>
+    <rect x="175" y="125" width="50" height="50" rx="4" fill="#0b0b0b"/>
+    <path d="M165 80v15M200 80v15M235 80v15M165 205v15M200 205v15M235 205v15M130 115h15M130 150h15M130 185h15M255 115h15M255 150h15M255 185h15"/>
+  </g>
+  <text x="200" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="16" fill="#666" letter-spacing="3">SEM IMAGEM</text>
+</svg>
